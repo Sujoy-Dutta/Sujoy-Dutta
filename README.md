@@ -20,7 +20,6 @@
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0c2034?style=flat-square&logo=python&logoColor=58a6ff)
-![Go](https://img.shields.io/badge/Go-0c2010?style=flat-square&logo=go&logoColor=3fb950)
 ![Node.js](https://img.shields.io/badge/Node.js-0c2010?style=flat-square&logo=nodedotjs&logoColor=3fb950)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c2034?style=flat-square&logo=postgresql&logoColor=58a6ff)
 ![Redis](https://img.shields.io/badge/Redis-2a0c0c?style=flat-square&logo=redis&logoColor=f85149)
