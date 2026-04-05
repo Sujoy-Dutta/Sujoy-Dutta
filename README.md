@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sujoy Dutta
-**Backend Developer · India**
+**FullStack(Backend - Data) Developer · India**
 
 ![Status](https://img.shields.io/badge/status-open_to_opportunities-3fb950?style=flat-square)
 
